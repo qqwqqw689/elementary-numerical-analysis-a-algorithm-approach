@@ -1,1 +1,1 @@
-
+# Newton formula
