@@ -1,3 +1,15 @@
 # Newton formula
 
-p_n(x)=\sum_{i=0}^{n}f[x_0,...,x_i]\prod_{j=0}^{i-1}(x-x_j)
+\documentclass{article}
+\begin{document}
+The mass-energy equivalence is described by the famous equation
+
+\[E=mc^2\]
+
+discovered in 1905 by Albert Einstein. 
+In natural units ($c$ = 1), the formula expresses the identity
+
+\begin{equation}
+E=m
+\end{equation}
+\end{document}
